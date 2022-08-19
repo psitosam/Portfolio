@@ -1,0 +1,144 @@
+.home-page {
+  .text-zone {
+    position: absolute !important;
+    left: 10%;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 40%;
+    max-height: 90%;
+    max-width: 100%;
+    text-align: left;
+  }
+
+  h1 {
+    color: #fff;
+    // color: #fff;
+    font-size: 56px;
+    line-height: 53px;
+    margin: 0;
+    font-family: 'Coolvetica';
+    font-weight: 400;
+    width: 100%;
+    max-width: 100%;
+
+    &:before {
+      content: '<h1>';
+      font-family: 'La Belle Aurore', cursive;
+      color: #010100;
+      font-size: 0px;
+      position: absolute;
+      margin-top: -40px;
+      left: -15px;
+      opacity: 0.6;
+    }
+
+    &:after {
+      content: '<h1/>';
+      font-family: 'La Belle Aurore', cursive;
+      color: #ffd700;
+      font-size: 0px;
+      position: absolute;
+      margin-top: 18px;
+      margin-left: 20px;
+      animation: fadeIn 1s 1.7s backwards;
+      opacity: 0.6;
+    }
+
+    // img {
+    //   margin-left: 20px;
+    //   opacity: 0;
+    //   width: 32px;
+    //   height: auto;
+    //   animation: rotateIn 1s linear both;
+    //   animation-delay: 1.4s;
+    // }
+  }
+
+  h2 {
+    color: #020101;
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 16px;
+    font-family: sans-serif;
+    letter-spacing: 3px;
+    animation: fadeIn 1s 1.8s backwards;
+  }
+
+  .flat-button {
+    color: rgb(8, 253, 216);
+    // color: #4e00ea;
+    // color: #ffd700;
+    font-size: 13px;
+    font-weight: 400;
+    letter-spacing: 4px;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 10px 18px;
+    border: 1px solid rgb(8, 253, 216);
+    margin-top: 25px;
+    float: left;
+    animation: fadeInAnimation 1s 1.8s backwards;
+    white-space: nowrap;
+    background-color: #7b8083;
+    transition: transform 0.1s ease-out;
+    box-shadow: 0 5px 0 rgba(5, 191, 163, 0.993);
+    border-radius: 6px;
+
+
+    &:hover {
+      box-shadow: 0 0 0 rgba(5, 191, 163, 0.638);
+      background: rgba(8, 253, 216, 0.123);
+      color: rgb(255, 255, 255);
+      transform: translateY(5px);
+    }
+
+  }
+
+  .resume-button {
+    color: rgb(8, 253, 216);
+    // color: #4e00ea;
+    // color: #ffd700;
+    font-size: 13px;
+    font-weight: 400;
+    letter-spacing: 4px;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 10px 18px;
+    border: 1px solid rgb(8, 253, 216);
+    margin-top: 25px;
+    float: left;
+    animation: fadeInAnimation 1s 1.8s backwards;
+    white-space: nowrap;
+    background-color: #7b8083;
+    transition: transform 0.1s ease-out;
+    box-shadow: 0 5px 0 rgba(5, 191, 163, 0.993);
+    border-radius: 6px;
+
+
+    &:hover {
+      box-shadow: 0 0 0 rgba(5, 191, 163, 0.638);
+      background: rgba(8, 253, 216, 0.123);
+      color: rgb(255, 255, 255);
+      transform: translateY(5px);
+    }
+
+  }
+}
+
+// .skeeter_logo {
+//   img {
+//     height: 666px;
+//     padding-left: 566px;
+//     padding-top: 200px;
+//   }
+// }
+// .skeeter_logo {
+//   img {
+//     height: 666px;
+//     padding-left: 2%;
+//     padding-right: 20%;
+//     padding-top: 1%;
+//     position: absolute;
+
+//   }
+// }
