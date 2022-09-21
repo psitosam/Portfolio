@@ -10,7 +10,6 @@ const Skills = () => {
       setLetterClass('text-animate-hover')
     }, 3000)
   }, [])
-
   const TagCloud = require('TagCloud');
 
   const myTags = [
@@ -68,7 +67,7 @@ const Skills = () => {
         </div>
       </div>
       <div class="TagCloud"></div>
-      <Loader type="square-spin" />
+      <Loader type="pacman" />
     </>
   )
 }

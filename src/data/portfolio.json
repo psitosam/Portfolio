@@ -1,0 +1,32 @@
+{
+  "portfolio": [
+    {
+      "cover": "/dungeonballlogo.png",
+      "title": "Dungeonball",
+      "description": "Rails | OAuth | Bootstrap",
+      "url": "https://nameless-peak-90166.herokuapp.com/",
+      "repo": "https://github.com/Dungeon-ball/dungeonball_fe"
+    },
+    {
+      "cover": "/whethersweater.png",
+      "title": "Whether Sweater",
+      "description": "Rails API | Postgresql",
+      "url": "https://api-sweater-weather.herokuapp.com/",
+      "repo": "https://github.com/psitosam/whether_sweater"
+    },
+    {
+      "cover": "/puptrainerlogo.png",
+      "title": "Pup Trainer",
+      "description": "Rails API | GraphQL",
+      "url": "https://pup-trainer.herokuapp.com/",
+      "repo": "https://github.com/PupTrainer/be_puptrainer"
+    },
+    {
+      "cover": "/railsenginelogo.png",
+      "title": "Rails Engine",
+      "description": "Rails API | Postgresql",
+      "url": "https://github.com/psitosam/rails-engine",
+      "repo": "https://github.com/psitosam/rails-engine"
+    }
+  ]
+}

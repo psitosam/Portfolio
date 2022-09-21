@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import {
-  faGitAlt,
+  faGitAlt, faReact,
 } from '@fortawesome/free-brands-svg-icons'
 import Loader from 'react-loaders'
 import AnimatedLetters from '../AnimatedLetters'
@@ -28,18 +28,14 @@ const About = () => {
             />
           </h1>
           <p>
-            After college, I spent about 15 years in public service, first as an EMT in Richmond,
-            Virginia, and later as a paramedic both in the city and surrounding rural counties. 
+            After college, I spent about 15 years in public service as a paramedic in Richmond, VA and surrounding rural counties. 
             My journey took me through multiple jurisdictions and through a period of service in 
-            the Army National Guard, and finally to a local fire department. The overarching theme 
-            through this period of my life was the desire to help people, a guideline that 
-            still influences me today. 
+            the Army National Guard, and finally to a local fire department.
           </p>
           <p>
             Although my career gave me opportunities to develop my communication, collaboration,
             and stress management skills, I found that after many years in the field I did not
-            feel like I was making a lasting impact. Urgent problems needed to be dealt with on
-            a daily basis, but important problems were not treated urgently. This led to my pursuit
+            feel like I was making a lasting impact. This led to my pursuit
             of a new venture and the next evolution of my career.
           </p>
           <p>
@@ -66,7 +62,7 @@ const About = () => {
         <div className="stage-cube-cont">
           <div className="cubespinner">
             <div className="face1">
-              <img src="/sql.png" alt="sql" />
+              <img src="/graphql.png" alt="graphql" />
             </div>
             <div className="face2">
               <img src="/ruby_png.png" alt="ruby" />
@@ -86,7 +82,7 @@ const About = () => {
           </div>
         </div>
       </div>
-      <Loader type="cube-spin" />
+      <Loader type="pacman" />
     </>
   )
 }

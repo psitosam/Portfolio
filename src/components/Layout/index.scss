@@ -4,10 +4,10 @@
   position: absolute;
 }
 
-// .top-tags {
-//   bottom: auto;
-//   top: 35px;
-// }
+.top-tags {
+  bottom: auto;
+  top: 35px;
+}
 
 // .tags {
 //   color: #ffd700;
@@ -36,6 +36,9 @@
   animation: fadeIn 1s forwards;
   animation-delay: 1s;
 }
+
+.container.contact-page,
+.container.skills-page,
 .container.about-page {
 
   h1 {

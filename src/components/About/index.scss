@@ -33,8 +33,9 @@
   }
 
   .face1 {
-    transform: translateZ(100px);
-    color: #dd0031;
+    transform: rotateY(1deg) translateZ(100px);
+    // color: #dd0031;
+    color: #f06529;
 
     img {
       height: 150px;
@@ -63,12 +64,12 @@
   }
 
   .face4 {
-    transform: rotateY(180deg) rotateZ(90deg) translateZ(100px);
+    transform: rotateY(181deg) rotateZ(90deg) translateZ(100px);
     color: #5ed4f4;
 
     img {
-      height: 140px;
-      width: 160px;
+      height: 150px;
+      width: 150px;
     }
   }
 
@@ -120,12 +121,3 @@
     transform: rotateX(90deg);
   }
 }
-
-// .skeeter_image {
-//   img {
-//     height: 450px;
-//     padding: 600px;
-//     padding-left: 630px;
-//     padding-top: 530px;
-//   }
-// }
