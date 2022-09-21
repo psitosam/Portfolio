@@ -38,7 +38,7 @@ Finally, the contact me page uses emailJS to allow users to send me an email dir
 <br>
 <br>
 <br>
-A big thanks to Code with Sloba *[Code with Sloba](https://www.youtube.com/channel/UCBu5ulO4d-d47lAVybpRTkw)* on Youtube and to Alex G Randolph for their assistance in making this website happen!
+A big thanks to [Code with Sloba](https://www.youtube.com/channel/UCBu5ulO4d-d47lAVybpRTkw) on Youtube and to Alex G Randolph for their assistance in making this website happen!
 
 <br>
 <br>
