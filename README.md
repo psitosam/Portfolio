@@ -11,10 +11,10 @@
 [Deployed App](https://alexgrandolph.dev/)</h2>
 # ABOUT THIS APP
 
-This portfolio application is my first attempt at using JavaScript or React.  Through Youtube tutorials, a lot of googling and reasearch, and lots of debugging I am proud of the final product.
+This portfolio application is my first attempt at using JavaScript in the React framework to make a dynamic website.
 <br>
 <br>
-This app utilizes Routes through react-router-dom to have pages for Home, About, Skills, Portfolio, and Contact.  Each page is its own component and contains something unique.  
+This app utilizes Routes through react-router-dom to have pages for Home, About, Skills, Portfolio, and Contact. It makes use of various open source libraries within the React framework.
 
 <br>
 <br>
@@ -23,7 +23,7 @@ The About page contains info about myself beyond what I can fit into a resume as
 
 <br>
 <br>
-The Skills page showcases what I am currently learning and the skills, languages, frameworks and more that I am confident in.
+The Skills page has a list of my skills displayed in a tag cloud, as well as a summary of what I learned through Turing and on my own.
 <img width="1912" alt="skills_page" src="https://user-images.githubusercontent.com/95240894/191599429-66623c06-5f3c-4951-ad64-c622ad1d7252.png">
 
 <br>
@@ -33,7 +33,7 @@ The Portfolio page contains cards with images, descriptions, and links to some o
 <br>
 <br>
 
-Finally, the contact me page uses email.js to allow users to send me an email directly from a form on the page.  The page also has an interactive map showing where I am currently located.  
+Finally, the contact me page uses emailJS to allow users to send me an email directly from a form on the page.  The page also has an interactive map showing where I am currently located. Currently, the email functionality is disabled due to an error when adding an email service to my emailJS account. Anyone is welcome to give their input on alternative serverless email functionality!
 <img width="1910" alt="contact_page" src="https://user-images.githubusercontent.com/95240894/191599455-bec80ff0-0f09-4320-af45-5ec2457d83ac.png">
 
 <br>
