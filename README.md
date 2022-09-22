@@ -1,4 +1,4 @@
-![View The Site](https://www.alexpsitos.dev)
+[View The Site](https://www.alexpsitos.dev)
 <div align="center">
 
   <h1>My Portfolio Website</h1>
