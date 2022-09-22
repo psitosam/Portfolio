@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>My Portfolio Website</h1>
-  <h2>[View the Site](https://www.alexpsitos.dev "View the Website")
+  <https://www.alexpsitos.dev>
   <img width="1913" alt="home_page" src="https://user-images.githubusercontent.com/95240894/191599223-91f8cf55-38e3-46b6-8710-48b1435ab245.png">
   
   <h2>A React Portfolio, as attempted by a backend developer : ). </h2>
