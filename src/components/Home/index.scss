@@ -124,22 +124,17 @@
     }
 
   }
+
+  .ok_logo {
+    img {
+      top: auto;
+      right: auto;
+      left: auto;
+      width: 50%;
+      height: 100%;
+      opacity: 40;
+      position: absolute;
+
+    }
+  }
 }
-
-// .skeeter_logo {
-//   img {
-//     height: 666px;
-//     padding-left: 566px;
-//     padding-top: 200px;
-//   }
-// }
-// .skeeter_logo {
-//   img {
-//     height: 666px;
-//     padding-left: 2%;
-//     padding-right: 20%;
-//     padding-top: 1%;
-//     position: absolute;
-
-//   }
-// }
